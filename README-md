@@ -12,6 +12,8 @@ ORM/ ├── prisma/           # Esquemas e migrações do banco de dados
 ├── package-lock.json      # Versões exatas das dependências 
 ├── tsconfig.json          # Configuração do TypeScript
 
+
+
 Código
 
 ## 🚀 Tecnologias Utilizadas
