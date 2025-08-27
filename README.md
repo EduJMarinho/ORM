@@ -58,8 +58,6 @@ Este projeto está sob a licença MIT.
 
 ##
    🧠 Analisar 📚 Aprender ❌ Errar  
-      🔁 Refatorar  🛠️ Construir  
-      
-             → → → → → → →  
+      🔁 Refatorar  🛠️ Construir            
 → Esse é o caminho do Dev. — Edu Marinho
 
