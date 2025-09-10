@@ -54,10 +54,11 @@ Este projeto está em fase inicial e pode ser expandido com rotas, validações,
 📄 Licença
 Este projeto está sob a licença MIT.
 
----
-
-##
-   🧠 Analisar 📚 Aprender ❌ Errar  
-      🔁 Refatorar  🛠️ Construir            
+------------------------------------
+**
+🧠 Analisar 📚 Aprender ❌ Errar  
+   🔁 Refatorar  🛠️ Construir  
+          
 → Esse é o caminho do Dev. — Edu Marinho
+
 
