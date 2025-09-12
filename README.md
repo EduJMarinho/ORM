@@ -3,8 +3,10 @@
 Este projeto demonstra o uso do [Prisma ORM](https://www.prisma.io/) com TypeScript para facilitar a interação entre aplicações JavaScript/TypeScript e bancos de dados relacionais.
 
 ## 📁 Estrutura do Projeto
+
+ORM/
 ```
-ORM/ ├── prisma/           # Esquemas e migrações do banco de dados 
+├── prisma/           # Esquemas e migrações do banco de dados 
 ├── src/                   # Código-fonte principal 
 ├── .env                   # Variáveis de ambiente 
 ├── .gitignore             # Arquivos ignorados pelo Git 
